@@ -1,0 +1,12 @@
+.no-border-card{
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+.no-border-card img{
+  border-radius: 0 !important;
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+  
+}
